@@ -1,0 +1,11 @@
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.fMain.resources
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.fPlane.resources
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\bin\Debug\LR4.exe.config
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\bin\Debug\LR4.exe
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\bin\Debug\LR4.pdb
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.exe
+C:\Users\Vladislav\Desktop\LR4_Test\LR4_Test\obj\Debug\LR4.pdb
